@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(47, 47, 48);
+    color: rgb(0, 0, 0);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#main {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    background-color: whitesmoke; 
+    padding: 160px;
+}
+
+#title {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+svg {
+    background-color: aliceblue;
+    margin: 0;
+}
+
